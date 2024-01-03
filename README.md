@@ -13,6 +13,10 @@ Welcome to my page lol, here you can find really dumb projects n shit
 
 Uhhhhh I also go by They/Them please refer to me as such
 
+
+github stats lmao
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bambamlololgh&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **bambamlolol/bambamlolol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
