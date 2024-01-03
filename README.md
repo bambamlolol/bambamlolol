@@ -5,7 +5,7 @@ Welcome to my page lol, here you can find really dumb projects n shit
   - Vs Bam (Director, Composer, Coder, Animator/Artist)
   - [Nep's Funkin' Day Out (Composer)](https://gamebanana.com/mods/370161)
   - Vs Balbi (Composer)
-  - [Super mario funkjing](https://github.com/bambamlolol/vs-super-MArio-funkjing)
+  - [Super mario funkjing (Composer, animator, director](https://github.com/bambamlolol/vs-super-MArio-funkjing)
 
 
 <!--
