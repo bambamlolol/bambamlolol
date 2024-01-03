@@ -7,6 +7,11 @@ Welcome to my page lol, here you can find really dumb projects n shit
   - Vs Balbi (Composer)
   - [Super mario funkjing (Composer, animator, director](https://github.com/bambamlolol/vs-super-MArio-funkjing)
 
+## Small Projects I don't work on TOO much
+  - [My Chromatic Pack](https://github.com/bambamlolol/bams-dumbass-chromatic-pack-thingy)
+
+
+Uhhhhh I also go by They/Them please refer to me as such
 
 <!--
 **bambamlolol/bambamlolol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
