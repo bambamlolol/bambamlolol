@@ -15,7 +15,9 @@ Uhhhhh I also go by They/Them please refer to me as such
 
 
 github stats lmao
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bambamlolol&hide=contribs,prs)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bambamlolol\&layout=compact)
 
 <!--
